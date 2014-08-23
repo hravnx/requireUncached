@@ -3,13 +3,16 @@ requireUncached
 
 A utility function to be able to work with uncached modules (e.g. for testing)
 
+This is similar to [this repo](https://github.com/sindresorhus/require-uncached) except this
+actually works with sub-modules.
+
 ## Installation
 
-	npm install requireUncached --save
+	npm install requireuncached --save
 
 ## Usage
 	
-	var requireUncached = require('requireUncached');
+	var requireUncached = require('requireuncached');
 
 	var myMod = requireUncached('../mymodule');
 
@@ -29,4 +32,5 @@ Add unit tests for any new or changed functionality.
 ## Release History
 
 * 0.1.0 Initial release	
+* 0.1.1 Republish to npm
 
