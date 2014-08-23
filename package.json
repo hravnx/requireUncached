@@ -1,0 +1,24 @@
+{
+  "name": "requireUncached",
+  "version": "0.1.0",
+  "description": "A utility function to be able to work with uncached modules (e.g. for testing)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hravnx/requireUncached.git"
+  },
+  "keywords": [
+    "nodejs",
+    "require",
+    "uncached"
+  ],
+  "author": "Henrik Ravn <hravnx@gmail.com> (http://hravnx.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hravnx/requireUncached/issues"
+  },
+  "homepage": "https://github.com/hravnx/requireUncached"
+}
