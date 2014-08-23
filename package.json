@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/hravnx/requireUncached/issues"
   },
-  "homepage": "https://github.com/hravnx/requireUncached"
+  "homepage": "https://github.com/hravnx/requireUncached",
+  "dependencies": {
+    "callsite": "^1.0.0"
+  }
 }
